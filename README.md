@@ -7,4 +7,4 @@ Loja virtual construída com Vue.js
 ### Soma assincrona do total do carrinho
 ### Controle de estoque
 
-#### OBS: Para o funcionamento de todas as funcionalidades o projeto deve ser aberto com um servidor local (Ex: Live Server do Visual Studeo Code)
+#### OBS: Para todas as funcionalidades o projeto deve ser aberto com um servidor local (Ex: Live Server do Visual Studeo Code)
