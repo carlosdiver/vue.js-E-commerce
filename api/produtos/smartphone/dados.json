@@ -1,0 +1,20 @@
+{
+  "id": "smartphone",
+  "nome": "Smartphone",
+  "preco": 1299,
+  "descricao": "Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Pellentesque in ipsum id orci porta dapibus. Proin eget tortor risus.",
+  "estoque": 8,
+  "img": "./api/produtos/smartphone/smartphone-foto.jpg",
+  "reviews": [
+    {
+      "nome": "Eduardo",
+      "estrelas": 5,
+      "descricao": "Bem rápido, tenho vários jogos e não trava."
+    },
+    {
+      "nome": "Marcia",
+      "estrelas": 4,
+      "descricao": "Gostei, apesar do preço. Valeu à pena."
+    }
+  ]
+}

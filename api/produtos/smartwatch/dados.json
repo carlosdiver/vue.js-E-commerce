@@ -1,0 +1,20 @@
+{
+  "id": "smartwatch",
+  "nome": "Smartwatch",
+  "preco": 1199,
+  "descricao": "Donec rutrum congue leo eget malesuada. Donec rutrum congue leo eget malesuada.",
+  "estoque": 10,
+  "img": "./api/produtos/smartwatch/smartwatch-foto.jpg",
+  "reviews": [
+    {
+      "nome": "Adrian",
+      "estrelas": 5,
+      "descricao": "Bem legal. Curti o watch."
+    },
+    {
+      "nome": "Alessandra",
+      "estrelas": 5,
+      "descricao": "Muito bom, posso monitorar minha saúde."
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+  {
+    "id": "notebook",
+    "nome": "Notebook",
+    "preco": 2999,
+    "descricao": "Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Nulla quis lorem ut libero malesuada feugiat.",
+    "estoque": 12,
+    "img": "./api/produtos/notebook/notebook.jpg",
+    "reviews": [
+      {
+        "nome": "Carlos",
+        "estrelas": 5,
+        "descricao": "Produto excelente, valeu muito à pena"
+      },
+      {
+        "nome": "Pedro",
+        "estrelas": 4,
+        "descricao": "Produto bom, mas poderia ter mais memória."
+      }, 
+      {
+        "nome": "Joana",
+        "estrelas": 5,
+        "descricao": "Ótimo notebook, atendeu a todas as minhas expectativas. Recomendo"
+      }
+    ]
+  }
